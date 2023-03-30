@@ -2,7 +2,7 @@
 
 Ruby gem adding formatter for common data types to HCL2.
 
-# Example
+## Example
 
 It's very simple! You have the Hash:
 
@@ -45,7 +45,7 @@ telemetry {
 }
 ```
 
-# Contribute
+## Contributing
 
 Create a PR or a simple issue c:
 
