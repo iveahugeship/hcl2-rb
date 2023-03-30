@@ -1,10 +1,11 @@
 Gem::Specification.new do |s|
   s.name                  = 'hcl2-rb'
-  s.version               = '0.9.0'
+  s.version               = '0.9.1'
   s.files                 = Dir['lib/**/*', 'spec/*', 'README*', 'LICENSE*']
   s.license               = 'MIT'
   s.authors               = ['iveahugeship']
   s.email                 = ['iveahugeship@gmail.com']
+  s.homepage              = 'https://github.com/iveahugeship/hcl2-rb'
   s.summary               = 'Ruby common data types formatter to HCL2'
   s.description           = <<-DSC
     Ruby common data types formatter to HCL2.
