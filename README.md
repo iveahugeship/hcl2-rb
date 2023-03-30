@@ -1,6 +1,9 @@
 # hcl2-rb
 
-Ruby gem adding formatter for common data types to HCL2.
+Ruby common data types formatter to HCL2.
+
+Using this tool you can format general Ruby data types to HCL2.
+Execute .to_hcl2 method, get the string and write it to a file
 
 ## Example
 
