@@ -94,7 +94,6 @@ RSpec.describe Hash do
 
       }
     EXP
-    puts fix.to_hcl2
 
     expect(fix.to_hcl2).to eq(exp)
   end
