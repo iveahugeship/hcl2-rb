@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name                  = 'hcl2-rb'
-  s.version               = '0.9.1'
+  s.version               = '0.9.2'
   s.files                 = Dir['lib/**/*', 'spec/*', 'README*', 'LICENSE*']
   s.license               = 'MIT'
   s.authors               = ['iveahugeship']
